@@ -124,3 +124,8 @@ window下，python二进制库下载地址：<a href="http://www.lfd.uci.edu/~go
 测试地址http://locahost:5000 可爱的画面终于出现了！！！
 
 至此，环境搭建终于搞定了！ 嘎嘎嘎嘎....
+
+
+### pyspider 论坛 
+
+    https://groups.google.com/forum/#!forum/pyspider-users
